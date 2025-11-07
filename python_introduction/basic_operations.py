@@ -1,8 +1,8 @@
 
 #A python script that performs basic arithmetic operations with two predefined numbers
 
-number1 = 17
-number2 = 23
+number1 = 10
+number2 = 5
 
 addition_result = number1 + number2
 subtraction_result = number2 - number1
